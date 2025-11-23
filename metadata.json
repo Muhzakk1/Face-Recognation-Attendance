@@ -1,0 +1,7 @@
+{
+  "name": "FaceCheck AI",
+  "description": "Smart Attendance System using Face Recognition and Gemini AI for analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
